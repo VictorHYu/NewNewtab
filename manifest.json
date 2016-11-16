@@ -1,0 +1,9 @@
+{
+  "name": "New New Tab",
+  "description": "An Improved New Tab Page for Google Chrome",
+  "version": "1.0",
+  "chrome_url_overrides" : {
+    "newtab": "newNewtab.html"
+  },
+  "manifest_version": 2
+}
