@@ -23,8 +23,7 @@ h2{
 }
 
 #outer_box {
-	background-color: rgb(185,210,208); 
-	opacity: 0.3;
+	background-color: rgba(185,210,208,0.3); 
 
 	position: absolute;
 

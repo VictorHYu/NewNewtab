@@ -14,3 +14,4 @@ Functionality:
 Future improvements:
 - Improve customizability (change links and text)
 
+v2: Minor changes, light background fade in, increased animation speed
